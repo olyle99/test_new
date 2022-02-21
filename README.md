@@ -1,55 +1,55 @@
-Movistar La Liga
+#EXTINF:0, Movistar La Liga
 http://84.77.142.77:8001/1:0:1:7797:424:1:C00000:0:0:0:
 
-Movistar Deportes
+#EXTINF:0, Movistar Deportes
 http://84.77.142.77:8001/1:0:19:7828:428:1:C00000:0:0:0:
 
-Movistar Deportes 1
+#EXTINF:0, Movistar Deportes 1
 http://84.77.142.77:8001/1:0:19:7532:426:1:c00000:0:0:0:
 
-Movistar Deportes 2
+#EXTINF:0, Movistar Deportes 2
 http://84.77.142.77:8001/1:0:1:77C2:40A:1:C00000:0:0:0: 
 
-DAZN 1
+#EXTINF:0, DAZN 1
 http://84.77.142.77:8001/1:0:19:7855:41A:1:C00000:0:0:0
 
-DAZN 2
+#EXTINF:0, DAZN 2
 http://84.77.142.77:8001/1:0:19:785F:41A:1:C00000:0:0:0
 
-DAZN 3
+#EXTINF:0, DAZN 3
 http://84.77.142.77:8001/1:0:19:74D8:3F8:1:C00000:0:0:0
 
-DAZN 4
+#EXTINF:0, DAZN 4
 http://84.77.142.77:8001/1:0:19:74D6:3F8:1:C00000:0:0:0 
 
-Liga Campeonesᴴᴰ
+#EXTINF:0, Liga Campeonesᴴᴰ
 http://84.77.142.77:8001/1:0:19:78b4:3ec:1:c00000:0:0:0:
 
-Liga Campeones 1ᴴᴰ
+#EXTINF:0, Liga Campeones 1ᴴᴰ
 http://84.77.142.77:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
  
-DAZN F1
+#EXTINF:0, DAZN F1
 http://84.77.142.77:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
 
-M+ Portada
+#EXTINF:0 ,M+ Portada
 http://84.77.142.77:8001/1:0:1:759c:422:1:c00000:0:0:0:
-M. estrenos
+#EXTINF:0,M.estrenos
 http://84.77.142.77:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
 
-M. Estrenos 2
+#EXTINF:0, M.Estrenos 2
 http://84.77.142.77:8001/1:0:1:7588:412:1:C00000:0:0:0:
 
- M. Comedia
+#EXTINF:0, M.Comedia
 http://84.77.142.77:8001/1:0:19:7857:41a:1:c00000:0:0:0:
 
- M. Drama
+#EXTINF:0, M.Drama
 http://84.77.142.77:8001/1:0:19:750b:420:1:c00000:0:0:0:
 
- M. Accion
+#EXTINF:0, M.Accion
 http://84.77.142.77:8001/1:0:1:746C:3F0:1:C00000:0:0:0:
 
-M. Series 2
+#EXTINF:0, M.Series 2
 http://84.77.142.77:8001/1:0:1:7696:41E:1:C00000:0:0:0:
 
-M. Cine Ñ
+#EXTINF:0, M.Cine Ñ
 http://84.77.142.77:8001/1:0:1:7736:416:1:c00000:0:0:0:
