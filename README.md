@@ -1,5 +1,7 @@
-
-
+#EXTINF:0, ALB
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1, MUSIX
+https://albportal.net/albkanalemusic.m3u8?
 #EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Новые каналы",Ictimai
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
