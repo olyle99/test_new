@@ -1,7 +1,96 @@
-#EXTINF:0, ALB
-https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1, MUSIX
-https://albportal.net/albkanalemusic.m3u8?
+#EXTINF:0, AL
+https://albportal.net/albkanalemusic.m3u8|User-Agent=ExoPlayerLib
+#EXTINF:-1, MUS
+https://albportal.net/albkanalemusic.m3u8|User-Agent=MXPlayer
+
+#EXTINF: -1,MARSYA & THE BEAR
+https://d.top4top.io/m_1478p5qfu2.mp4
+#EXTINF: -1,TOM and JERY 1
+https://b.top4top.io/m_1477ceu0r3.mp4
+#EXTINF: -1,TOM and JERY 2
+https://c.top4top.io/m_1477kp8904.mp4
+#EXTINF: -1,VIDEO KIDS (1)
+https://k.top4top.io/m_1477wv4j41.mp4
+#EXTINF: -1,VIDEO KIDS (2)
+https://l.top4top.io/m_1477h68tl2.mp4
+#EXTINF: -1,VIDEO KIDS (3)
+https://d.top4top.io/m_14777i1ue5.mp4
+#EXTINF: -1,VIDEO KIDS (4)
+https://e.top4top.io/m_1477chpnj6.mp4
+#EXTINF: -1,VIDEO KIDS (5)
+https://g.top4top.io/m_1477156zr7.mp4
+#EXTINF: -1,VIDEO KIDS (6)
+https://h.top4top.io/m_14771d7iu8.mp4
+#EXTINF: -1,VIDEO KIDS (7)
+https://j.top4top.io/m_1477bmium9.mp4
+#EXTINF: -1,VIDEO KIDS (8)
+https://h.top4top.io/m_1477jhbxy0.mp4
+#EXTINF: -1,VIDEO KIDS (9)
+https://k.top4top.io/m_14776cq9k1.mp4
+#EXTINF: -1,VIDEO KIDS (10)
+https://l.top4top.io/m_1477brk9x2.mp4
+#EXTINF: -1,VIDEO KIDS (11)
+https://a.top4top.io/m_1477iyeew3.mp4
+#EXTINF: -1,VIDEO KIDS (12)
+https://c.top4top.io/m_14777ens64.mp4
+#EXTINF: -1,VIDEO KIDS (13)
+https://d.top4top.io/m_14776h9f35.mp4
+#EXTINF: -1,VIDEO KIDS (14)
+https://e.top4top.io/m_1477uwian6.mp4
+#EXTINF: -1,VIDEO KIDS (15)
+https://f.top4top.io/m_1477ze06l7.mp4
+#EXTINF: -1,VIDEO KIDS (16)
+https://g.top4top.io/m_1477hpkba8.mp4
+#EXTINF: -1,VIDEO KIDS (17)
+https://i.top4top.io/m_1477n4py19.mp4
+#EXTINF: -1,VIDEO KIDS (18)
+https://e.top4top.io/m_1477866nb0.mp4
+#EXTINF: -1,VIDEO KIDS (19)
+https://f.top4top.io/m_147745piq1.mp4
+#EXTINF: -1,VIDEO KIDS (20)
+https://g.top4top.io/m_1477xi3dd3.mp4
+#EXTINF: -1,VIDEO KIDS (21)
+https://h.top4top.io/m_1477nim1t4.mp4
+#EXTINF: -1,VIDEO KIDS (22)
+https://i.top4top.io/m_1477w0sts5.mp4
+#EXTINF:-1,VIDEO KIDS (23)
+https://k.top4top.io/m_1477fi3w16.mp4
+#EXTINF: -1,VIDEO KIDS (24)
+https://f.top4top.io/m_147895ai84.mp4
+#EXTINF: -1,VIDEO KIDS (25)
+https://g.top4top.io/m_1478ana6a5.mp4
+#EXTINF:-1,VIDEO KIDS (26)
+https://h.top4top.io/m_14782rsk46.mp4
+#EXTINF:-1,VIDEO KIDS (27)
+https://g.top4top.io/m_1478bild11.mp4
+#EXTINF: -1,VIDEO KIDS (28)
+https://i.top4top.io/m_14782jcy02.mp4
+#EXTINF: -1,VIDEO KIDS (29)
+https://j.top4top.io/m_1478u7zv33.mp4
+#EXTINF: -1,VIDEO KIDS (30)
+https://k.top4top.io/m_1478joh454.mp4
+#EXTINF: -1,VIDEO KIDS (31)
+https://l.top4top.io/m_1478tnf185.mp4
+#EXTINF: -1,VIDEO KIDS (32)
+https://a.top4top.io/m_14788ucy26.mp4
+#EXTINF: -1,VIDEO KIDS (34)
+https://c.top4top.io/m_1478z2r0g8.mp4
+#EXTINF: -1,VIDEO KIDS (35)
+https://d.top4top.io/m_1478gjj249.mp4
+#EXTINF: -1,VIDEO KIDS (36)
+https://f.top4top.io/m_1478xin5l0.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Новые каналы",Ictimai
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
