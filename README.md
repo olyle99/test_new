@@ -80,16 +80,196 @@ https://d.top4top.io/m_1478gjj249.mp4
 #EXTINF: -1,VIDEO KIDS (36)
 https://f.top4top.io/m_1478xin5l0.mp4
 
+#EXTINF:-1,13th Street HD
+http://185.236.229.53:9981/play/a02c
+#EXTINF:-1,Beate Uhse HD
+http://185.236.229.53:9981/play/a014
+#EXTINF:-1,Boomerang
+http://185.236.229.53:9981/play/a013
+#EXTINF:-1,Cartoon Network
+http://185.236.229.53:9981/play/a03q
+#EXTINF:-1,Classica
+http://185.236.229.53:9981/play/a01h
+#EXTINF:-1,Crime + Investigation
+http://185.236.229.53:9981/play/a03p
+#EXTINF:-1,Discovery HD
+http://185.236.229.53:9981/play/a020
 
+#EXTINF:-1,NICK/CC+1
+http://185.236.229.53:9981/play/a07s
+#EXTINF:-1,Nat Geo Wild HD
+http://185.236.229.53:9981/play/a01y
+#EXTINF:-1,NatGeo HD
+http://185.236.229.53:9981/play/a02a
+#EXTINF:-1,Nick Jr.
+http://185.236.229.53:9981/play/a07m
+#EXTINF:-1,Nick Junior Global
+http://185.236.229.53:9981/play/a07n
+#EXTINF:-1,Nicktoons
+http://185.236.229.53:9981/play/a026
 
+#EXTINF:-1,Romance TV
+http://185.236.229.53:9981/play/a01o
+#EXTINF:-1,SIXX HD
+http://185.236.229.53:9981/play/a07t
+#EXTINF:-1,SYFY HD
+http://185.236.229.53:9981/play/a03a
+#EXTINF:-1,Sky Atlantic HD
+http://185.236.229.53:9981/play/a028
+#EXTINF:-1,Sky Cinema 007 HD
+http://185.236.229.53:9981/play/a029
+#EXTINF:-1,Sky Cinema Action
+http://185.236.229.53:9981/play/a011
+#EXTINF:-1,Sky Cinema Action HD
+http://185.236.229.53:9981/play/a009
+#EXTINF:-1,Sky Cinema Best Of
+http://185.236.229.53:9981/play/a02h
+#EXTINF:-1,Sky Cinema Best Of HD
+http://185.236.229.53:9981/play/a037
+#EXTINF:-1,Sky Cinema Classics
+http://185.236.229.53:9981/play/a025
+#EXTINF:-1,Sky Cinema Family
+http://185.236.229.53:9981/play/a02o
+#EXTINF:-1,Sky Cinema Family HD
+http://185.236.229.53:9981/play/a01i
+#EXTINF:-1,Sky Cinema Fun
+http://185.236.229.53:9981/play/a010
+#EXTINF:-1,Sky Cinema Premieren
+http://185.236.229.53:9981/play/a02e
+#EXTINF:-1,Sky Cinema Premieren +24
+http://185.236.229.53:9981/play/a01x
+#EXTINF:-1,Sky Cinema Premieren HD
+http://185.236.229.53:9981/play/a021
+#EXTINF:-1,Sky Cinema Thriller HD
+http://185.236.229.53:9981/play/a02f
+#EXTINF:-1,Sky Crime HD
+http://185.236.229.53:9981/play/a01w
+#EXTINF:-1,Sky Documentaries HD
+http://185.236.229.53:9981/play/a012
+#EXTINF:-1,Sky Krimi HD
+http://185.236.229.53:9981/play/a02g
+#EXTINF:-1,Sky Nature HD
+http://185.236.229.53:9981/play/a01e
+#EXTINF:-1,Sky One HD
+http://185.236.229.53:9981/play/a01j
+#EXTINF:-1,Sky Replay HD
+http://185.236.229.53:9981/play/a039
 
+#EXTINF:-1,Sky Sport F1 HD
+http://185.236.229.53:9981/play/a07u
+#EXTINF:-1,Sky Sport News HD
+http://185.236.229.53:9981/play/a038
+#EXTINF:-1,Eurosport 1 HD
+http://185.236.229.53:9981/play/a006
+#EXTINF:-1,Eurosport 2 HD
+http://185.236.229.53:9981/play/a03e
+#EXTINF:-1,Eurosport 2 HD Xtra
+http://185.236.229.53:9981/play/a007
+#EXTINF:-1,DAZN 1 HD
+http://185.236.229.53:9981/play/a00b
+#EXTINF:-1,DAZN 2 HD
+http://185.236.229.53:9981/play/a01p
+#EXTINF:-1,Sky Sport 1
+http://185.236.229.53:9981/play/a02j
+#EXTINF:-1,Sky Sport 2
+http://185.236.229.53:9981/play/a01k
+#EXTINF:-1,Sky Sport 3
+http://185.236.229.53:9981/play/a02t
+#EXTINF:-1,Sky Sport 4
+http://185.236.229.53:9981/play/a02v
+#EXTINF:-1,Sky Sport 5
+http://185.236.229.53:9981/play/a02x
+#EXTINF:-1,Sky Sport 6
+http://185.236.229.53:9981/play/a02z
+#EXTINF:-1,Sky Sport 7
+http://185.236.229.53:9981/play/a031
+#EXTINF:-1,Sky Sport 8
+http://185.236.229.53:9981/play/a016
+#EXTINF:-1,Sky Sport 9
+http://185.236.229.53:9981/play/a033
+#EXTINF:-1,Sky Sport 10
+http://185.236.229.53:9981/play/a035
+#EXTINF:-1,Sky Sport 11
+http://185.236.229.53:9981/play/a02r
+#EXTINF:-1,Sky Sport 1 HD
+http://185.236.229.53:9981/play/a01z
+#EXTINF:-1,Sky Sport 2 HD
+http://185.236.229.53:9981/play/a02b
+#EXTINF:-1,Sky Sport 3 HD
+http://185.236.229.53:9981/play/a023
+#EXTINF:-1,Sky Sport 4 HD
+http://185.236.229.53:9981/play/a01m
+#EXTINF:-1,Sky Sport 5 HD
+http://185.236.229.53:9981/play/a03c
+#EXTINF:-1,Sky Sport 6 HD
+http://185.236.229.53:9981/play/a00e
+#EXTINF:-1,Sky Sport 7 HD
+http://185.236.229.53:9981/play/a02m
+#EXTINF:-1,Sky Sport 8 HD
+http://185.236.229.53:9981/play/a018
+#EXTINF:-1,Sky Sport 9 HD
+http://185.236.229.53:9981/play/a01c
+#EXTINF:-1,Sky Sport 10 HD
+http://185.236.229.53:9981/play/a01r
+#EXTINF:-1,Sky Sport 11 HD
+http://185.236.229.53:9981/play/a03k
+#EXTINF:-1,Sky Sport Austria 1 HD
+http://185.236.229.53:9981/play/a00c
+#EXTINF:-1,Sky Sport Austria 2 HD
+http://185.236.229.53:9981/play/a02d
+#EXTINF:-1,Sky Sport Austria 3 HD
+http://185.236.229.53:9981/play/a00g
+#EXTINF:-1,Sky Sport Austria 4 HD
+http://185.236.229.53:9981/play/a03l
+#EXTINF:-1,Sky Sport Austria 5 HD
+http://185.236.229.53:9981/play/a01a
+#EXTINF:-1,Sky Sport Austria 6 HD
+http://185.236.229.53:9981/play/a01t
+#EXTINF:-1,Sky Sport Austria 7 HD
+http://185.236.229.53:9981/play/a03n
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://185.236.229.53:9981/play/a02k
+#EXTINF:-1,Sky Sport Bundesliga 2
+http://185.236.229.53:9981/play/a02s
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://185.236.229.53:9981/play/a02u
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://185.236.229.53:9981/play/a02w
+#EXTINF:-1,Sky Sport Bundesliga 5
+http://185.236.229.53:9981/play/a02y
+#EXTINF:-1,Sky Sport Bundesliga 6
+http://185.236.229.53:9981/play/a030
+#EXTINF:-1,Sky Sport Bundesliga 7
+http://185.236.229.53:9981/play/a015
+#EXTINF:-1,Sky Sport Bundesliga 8
+http://185.236.229.53:9981/play/a032
+#EXTINF:-1,Sky Sport Bundesliga 9
+http://185.236.229.53:9981/play/a034
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://185.236.229.53:9981/play/a036
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://185.236.229.53:9981/play/a022
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://185.236.229.53:9981/play/a01l
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://185.236.229.53:9981/play/a03b
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://185.236.229.53:9981/play/a00d
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://185.236.229.53:9981/play/a02l
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://185.236.229.53:9981/play/a017
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://185.236.229.53:9981/play/a01b
 
-
-
-
-
-
-
+#EXTINF:-1,Warner TV Comedy HD
+http://185.236.229.53:9981/play/a03h
+#EXTINF:-1,Warner TV Film HD
+http://185.236.229.53:9981/play/a02i
+#EXTINF:-1,Warner TV Serie HD
+http://185.236.229.53:9981/play/a00a
+#EXTINF:-1,sixx HD 
+http://185.236.229.53:9981/play/a00x
 
 #EXTINF:-1 catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}" group-title="Новые каналы",Ictimai
 #EXTVLCOPT:http-user-agent=Embarcadero URI Client/1.0
