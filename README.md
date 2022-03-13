@@ -1,22 +1,33 @@
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN1 
-https://list.iptvcat.com/my_list/s/630ceb356e35988b6e04eeb5f6fa18c3.m3u8 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN2 
-https://list.iptvcat.com/my_list/s/630ceb356e35988b6e04eeb5f6fa18c3.m3u8 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN3 
-https://list.iptvcat.com/my_list/s/cb35aaa45a9a3a61063d49b11fd2c41d.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN4 
-https://list.iptvcat.com/my_list/s/cc3a32ea5f1e3e82096fdc4581e47e25.m3u8 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN5 
-https://list.iptvcat.com/my_list/s/ee454dcc2e3e910f13514a8fc94e9fb7.m3u8 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN6 
-https://list.iptvcat.com/my_list/s/e8f3ab6be16bcf1c10bb77228a36be75.m3u8 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN7 
-https://list.iptvcat.com/my_list/s/e0a05ddc8819319c2ae79fa269fce1b5.m3u8 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN8 
-https://list.iptvcat.com/my_list/s/99651ffe43ea841c9bd07746bf5fcccd.m3u8 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png", DAZN9 
-https://list.iptvcat.com/my_list/s/99651ffe43ea841c9bd07746bf5fcccd.m3u8 
-
+#EXTINF:0,XXX 1
+http://client.nodomain.vip:80/live.ts?channelId=41&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,XXX 2
+http://client.nodomain.vip:80/live.ts?channelId=164&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,XXX 3
+http://client.nodomain.vip:80/live.ts?channelId=162&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,XXX 4
+http://client.nodomain.vip:80/live.ts?channelId=1514&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,XXX 5
+http://client.nodomain.vip:80/live.ts?channelId=1564&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,XXX 6
+http://client.nodomain.vip:80/live.ts?channelId=1565&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,XXX 7
+http://client.nodomain.vip:80/live.ts?channelId=1566&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,XXX 8
+http://client.nodomain.vip:80/live.ts?channelId=1567&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,BALKAN EROTIC
+http://client.nodomain.vip:80/live.ts?channelId=1474&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,DORCEL TV
+http://client.nodomain.vip:80/live.ts?channelId=1513&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0, Xxx
+http://client.nodomain.vip:80/live.ts?channelId=1513&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,PINK EROTIC 1
+http://client.nodomain.vip:80/live.ts?channelId=96&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,PINK EROTIC 2
+http://client.nodomain.vip:80/live.ts?channelId=97&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,PINK EROTIC 3
+http://client.nodomain.vip:80/live.ts?channelId=98&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
+#EXTINF:0,PINK EROTIC 4
+http://client.nodomain.vip:80/live.ts?channelId=99&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
 
 
 #EXTINF:0, 五星体育
