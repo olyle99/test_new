@@ -1,41 +1,245 @@
-#EXTINF:0,XXX 1
-http://client.nodomain.vip:80/live.ts?channelId=41&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,XXX 2
-http://client.nodomain.vip:80/live.ts?channelId=164&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,XXX 3
-http://client.nodomain.vip:80/live.ts?channelId=162&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,XXX 4
-http://client.nodomain.vip:80/live.ts?channelId=1514&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,XXX 5
-http://client.nodomain.vip:80/live.ts?channelId=1564&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,XXX 6
-http://client.nodomain.vip:80/live.ts?channelId=1565&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,XXX 7
-http://client.nodomain.vip:80/live.ts?channelId=1566&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,XXX 8
-http://client.nodomain.vip:80/live.ts?channelId=1567&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,BALKAN EROTIC
-http://client.nodomain.vip:80/live.ts?channelId=1474&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,DORCEL TV
-http://client.nodomain.vip:80/live.ts?channelId=1513&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0, Xxx
-http://client.nodomain.vip:80/live.ts?channelId=1513&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,PINK EROTIC 1
-http://client.nodomain.vip:80/live.ts?channelId=96&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,PINK EROTIC 2
-http://client.nodomain.vip:80/live.ts?channelId=97&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,PINK EROTIC 3
-http://client.nodomain.vip:80/live.ts?channelId=98&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-#EXTINF:0,PINK EROTIC 4
-http://client.nodomain.vip:80/live.ts?channelId=99&uid=26603&deviceUser=18S5Tip3eE&devicePass=HdT0cEP58PTEPuX70MS1
-
+#EXTINF:0,XXX: Evil Angel.com
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/870
+#EXTINF:0,XXX: Penthouse BLACK HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/845
+#EXTINF:0,XXX: HUSTLER HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/840
+#EXTINF:0,XXX: DUSK
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/878
+#EXTINF:0,XXX: Passie XXX
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/865
+#EXTINF:0,XXX: ERO xxx HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/859
+#EXTINF:0,XXX: Erotic 01
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/860
+#EXTINF:0,XXX: Erotic 02
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/867
+#EXTINF:0,XXX: Erotic 03
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/874
+#EXTINF:0,XXX: Erotic 04
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/877
+#EXTINF:0,XXX: Erotic 05
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/857
+#EXTINF:0,XXX: Erotic 06
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/856
+#EXTINF:0,XXX: Erotic 07
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/853
+#EXTINF:0,XXX: Erotic 08
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/846
+#EXTINF:0,XXX: Balkan Erotic
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52022
+#EXTINF:0,XXX: Penthouse Passion HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51471
+#EXTINF:0,XXX: Penthouse Quickies HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51470
+#EXTINF:0,XXX: Penthouse Gold HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/871
+#EXTINF:0,XXX: Family Hookups
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51472
+#EXTINF:0,XXX: 21 Sextury
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/851
+#EXTINF:0,XXX: Babes TV HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/858
+#EXTINF:0,XXX: Hot
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/839
+#EXTINF:0,XXX: RedLight HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1229
+#EXTINF:0,XXX: Jasmin.tv Adult
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1234
+#EXTINF:0,XXX: Fast Adult 2
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1232
+#EXTINF:0,XXX: BRAZZER
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48482
+#EXTINF:0,XXX: EROX HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48468
+#EXTINF:0,XXX: Hustler TV HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48461
+#EXTINF:0,XXX: MomsTeachSex.com HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48470
+#EXTINF:0,XXX: Nubiles Casting.com
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48476
+#EXTINF:0,XXX: Passionet TV
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48485
+#EXTINF:0,XXX: Private TV
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48479
+#EXTINF:0,XXX: Reality Kings TV
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48477
+#EXTINF:0,XXX: Vixen
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48464
+#EXTINF:0,XXX: UBratty Sis HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48481
+#EXTINF:0,XXX: Venus TV
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48478
+#EXTINF:0,XXX:   DORCEL XXX HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50175
+#EXTINF:0,XXX:  FILMA X Sirina
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48483
+#EXTINF:0,XXX: Fast Adult 1
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48484
+#EXTINF:0,XXX: Alba XXX-1
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50638
+#EXTINF:0,XXX:  Cum 4k UHD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50639
+#EXTINF:0,XXX: Daughter Swap
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50640
+#EXTINF:0,XXX: DDF Network
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50641
+#EXTINF:0,XXX: Deeper
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50642
+#EXTINF:0,XXX: DeepLush
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50643
+#EXTINF:0,XXX: Alba XXX-HD1
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50644
+#EXTINF:0,XXX: Alba XXX-HD2
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50645
+#EXTINF:0,XXX: RedTraffic Threesome HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50166
+#EXTINF:0,XXX:  RedTraffic Teen HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50168
+#EXTINF:0,XXX: RedTraffic Russian HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50169
+#EXTINF:0,XXX:  RedTraffic POV HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50170
+#EXTINF:0,XXX:  RedTraffic MILF HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50172
+#EXTINF:0,XXX: RedTraffic Lesbian HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50173
+#EXTINF:0,XXX:  RedTraffic Latina HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50174
+#EXTINF:0,XXX: RedTraffic Interracial HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50905
+#EXTINF:0,XXX: RedTraffic Hardcore HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50907
+#EXTINF:0,XXX: RedTraffic Fetish HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50908
+#EXTINF:0,XXX: RedTraffic Cuckold HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50909
+#EXTINF:0,XXX: RedTraffic Blowjob HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50913
+#EXTINF:0,XXX: XY Plus
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50914
+#EXTINF:0,XXX: XY Mix
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50911
+#EXTINF:0,XXX: XY Plus
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50906
+#EXTINF:0,XXX: Korean HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50910
+#EXTINF:0,XXX: Blacked Raw
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51638
+#EXTINF:0,XXX: VIVID HD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52021
+#EXTINF:0,XXX: VIVID RED FHD
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50912
+#EXTINF:0,XXX: TINY4K 1 
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51542
+#EXTINF:0,XXX: TINY4K 2
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51543
+#EXTINF:0,XXX: TINY4K 3 
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51167
+#EXTINF:0,XXX: TINY4K 4
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50167
+#EXTINF:0,XXX: TINY4K 5
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51639
+#EXTINF:0,XXX: TINY4K 6
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50171
+#EXTINF:0,XXX: TINY4K 7
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51640
+#EXTINF:0,XXX: TINY4K 8
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51641
+#EXTINF:0,XXX: TINY4K 9
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48480
+#EXTINF:0,XXX: TINY4K 10
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51642
+#EXTINF:0,XXX: Family Strokes
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53636
+#EXTINF:0,XXX: US MOVIES ADULT 4
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53637
+#EXTINF:0,XXX: US MOVIES ADULT 1
+#EXTVLCOPT:network-caching=1000
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53638
 
 #EXTINF:0, 五星体育
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8 
-
 #EXTINF:0, 魅力足球
 http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8 
-
 
 #EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/7udzKTQ.jpg",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?tibo
