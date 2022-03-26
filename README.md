@@ -24,6 +24,8 @@ TL-🇨🇷
 +18-🔞
 sport-⚽
 
+POPCORN-🍿
+
 #EXTINF:0,XXX: Evil Angel.com
 #EXTVLCOPT:network-caching=1000
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/870
