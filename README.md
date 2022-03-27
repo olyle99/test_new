@@ -24,6 +24,13 @@ TL-🇨🇷
 +18-🔞
 sport-⚽
 
+
+🎭-kinema
+🎵-muzike
+🏛️-kulture
+🌐-lajme
+👫-femije
+
 POPCORN-🍿
 
 #EXTINF:0,XXX: Evil Angel.com
