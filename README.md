@@ -1,3 +1,475 @@
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/zwbXAwK.png",========>>GJENERALE<<========
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?tibo
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL HD
+http://31.172.87.53:2200/ALB-EX/Top_Channel_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/Y4nobZZ.png",[$]VIZION PLUS HD
+http://31.172.87.53:2200/ALB-EX/Vizion_Plus_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/Q8viGGd.png",[$]Klan HD
+http://31.172.87.53:2200/ALB-EX/Klan_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/K4kFtGF.png",[$]KLAN KOSOVA HD
+http://31.172.87.53:2200/ALB-EX/Klan_Kosova-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M HD
+http://31.172.87.53:2200/ALB-EX/Alsat_M_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/UEYLchp.png",[$]TV ERA HD
+http://31.172.87.53:2200/ALB-EX/Era_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1HD
+http://31.172.87.53:2200/ALB-EX/RTSH_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/q9gq1vh.png",[$]RTSH 2HD
+http://31.172.87.53:2200/ALB-EX/RTSH_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/x5jUmXf.png",[$]RTSH 3HD
+http://31.172.87.53:2200/ALB-EX/RTSH_3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/Sax1DiE.png",[$]RTSH KUVEND HD
+http://31.172.87.53:2200/ALB&EX/RTSH_Kuvend_HD_AL-alb/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/VqQBc3x.png",[$]TV DUKAGJINI HD
+http://31.172.87.53:2200/ALB-EX/TV_Dukagjini_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/bfEsnMG.png",[$]RTV 21 MACEDONIA HD
+http://31.172.87.53:2200/ALB-EX/RTV_21_MK_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/C1pDVM9.png",[$]RTV 21HD
+http://31.172.87.53:2200/ALB-EX/RTV_21_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/286HPuU.png",[$]TV KOHA HD
+http://31.172.87.53:2200/ALB-EX/TV_Koha_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/P82EHQf.png",[$]SYRI VISION HD
+http://31.172.87.53:2200/ALB-EX/TV_Syri_Vision_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/UorxjY1.png",[$]TV1 CHANNEL HD
+http://31.172.87.53:2200/ALB-EX/TV_1_Shkoder_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU HD 
+http://31.172.87.53:2200/ALB-EX/Tv_Kopliku_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/tadEYF3.png",[$]ANTENA NORD HD
+http://31.172.87.53:2200/ALB-EX/Antena_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/zwbXAwK.png",========>>LAJME<<========
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?tibo1
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/HumlTXC.png",[$]ARTA NEWS HD
+http://31.172.87.53:2200/ALB-EX/TV_Arta_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/S6NxNOj.png",[$]ORA NEWS HD
+http://31.172.87.53:2200/ALB-EX/Ora_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/iFgj4d2.png",[$]NEWS 24HD
+http://31.172.87.53:2200/ALB-EX/News_24_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/mwV2Y5u.png",[$]TOP NEWS HD
+http://31.172.87.53:2200/ALB-EX/Top_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/9CeQ9qD.png",[$]ABC NEWS HD
+http://31.172.87.53:2200/ALB-EX/Abc_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/Zy1fQ8Q.png",[$]APOLLON TV
+http://31.172.87.53:2200/ALB-EX/Apollon_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/zwbXAwK.png",========>>MUZIKE<<========
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?tibo2
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/ZCAnj9p.png",[$]RTV21 MIX HD
+http://31.172.87.53:2200/ALB-EX/RTV_21_Mix_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/etjJ7sO.png",[$]RTV21 POPULLORE HD
+http://31.172.87.53:2200/ALB-EX/RTV_21_Popullore_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/jNN2MHu.png",[$]LIRIA TV
+http://31.172.87.53:2200/ALB-EX/LIRIA_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/Rk4eDOd.png",[$]FIRST CHANNEL
+http://31.172.87.53:2200/ALB-EX/1_First_Kosova_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/H8XWZYs.png",[$]ZICO TV
+http://31.172.87.53:2200/ALB-EX/Zico_TV_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/ieaB7wj.png",[$]TV PRIZRENI
+http://31.172.87.53:2200/ALB-EX/PRIZRENI_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.ibb.co/Z81Vvsj/shota.png",[$]TV SHOTA
+http://31.172.87.53:2200/ALB-EX/Shota_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/zwbXAwK.png",========>>FEMIJE<<========
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?tibo3
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/67AVeqw.png",[$]RTV JUNIOR 
+http://31.172.87.53:2200/ALB-EX/RTV_21_Junior_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/Yj2naMf.png",[$]SOFIA TV
+http://31.172.87.53:2200/ALB-EX/Sofia_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/ZTL0Hcl.png",[$]BANG BANG
+http://31.172.87.53:2200/ALB-EX/Bang_Bang_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/2UQPL93.png",[$]CUFO TV
+http://31.172.87.53:2200/ALB-EX/Cufo_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/6BCMgdN.png",[$]TRING TRING
+http://31.172.87.53:2200/ALB-EX/Tring_Tring_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/i4wkGBK.png",[$]TIP TV
+http://31.172.87.53:2200/ALB-EX/Tip_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/jj9BO2N.png",[$]TRING KIDS
+http://31.172.87.53:2200/ALB-EX/TRING_KIDS_AL-alb/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="http://www.albepg.com/tvlogi/Duck%20tv.png",[$]DUCK TV
+http://31.172.87.53:2200/ALB-EX/DUCK_TV_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/LQb39yF.png",[$]TAO TAO
+http://31.172.87.53:2200/ALB-EX/TaoTao-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/zwbXAwK.png",========>>KULTURE<<========
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?tibo4
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/XPVtoOO.png",[$]EXPLORER SHKENCE
+http://31.172.87.53:2200/ALB-EX/Explorer_Shkence_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/T6y4ib7.png",[$]EXPLORER NATYRA
+http://31.172.87.53:2200/ALB-EX/Explorer_NAtyra_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/uWGBkY5.png",[$]EXPLORER HISTORI
+http://31.172.87.53:2200/ALB-EX/Explorer_History_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/5ZnQxTU.png",[$]TRING WORLD
+http://31.172.87.53:2200/ALB-EX/Tring_World_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/RSBqaNN.png",[$]TRING PLANET
+http://31.172.87.53:2200/ALB-EX/Tring_Planet_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/reB8lrJ.png",[$]TRING HISTORY
+http://31.172.87.53:2200/ALB-EX/Tring_History_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/Ev4er0J.png",[$]24 KITCHEN
+http://31.172.87.53:2200/ALB-EX/Kitchen_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/XCUf5Yj.png",[$]NATIONAL GEOGRAPHIC
+http://31.172.87.53:2200/ALB-EX/Nat_Geo_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/0N8MnhN.png",[$]TRAVEL CHANNEL
+http://31.172.87.53:2200/ALB-EX/Travel_Channel_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/NMnuqfR.png",[$]DISCOVERY SCIENCE
+http://31.172.87.53:2200/ALB-EX/Discovery_Science_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/W3sT3UH.png",[$]DISCOVERY TURBO XTRA
+http://31.172.87.53:2200/EX/Discovery_Turbo_Xtra-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT ANDROID MOBILE 1.0
+
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/zwbXAwK.png",========>>TIBO FILM<<========
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?filma10
+#EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/xuHTCEz.png",[$]BIG BROTHER VIP 1HD
+http://31.172.87.53:2200/ALB-EX/Big_Brother_Vip-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/N4IWSqm.png",[$]FILM GOLD HD
+http://31.172.87.53:2200/ALB-EX/Film_Nje_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/lBwJpaC.png",[$]FILM MAX HD
+http://31.172.87.53:2200/ALB-EX/Film_Dy-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/VbuY2cH.png",[$]FILM AKSION HD
+http://31.172.87.53:2200/ALB-EX/Film_Aksion_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/FthL5hJ.png",[$]FILM HITS HD
+http://31.172.87.53:2200/ALB-EX/Film_Hits_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/6rA4A9a.png",[$]FILM DRAME 
+http://31.172.87.53:2200/ALB-EX/Film_Drame_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/auNzq99.png",[$]FILM KOMEDI
+http://31.172.87.53:2200/ALB-EX/Film_Komedi_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/XTlw1pC.png",[$]FILM AUTOR
+http://31.172.87.53:2200/ALB-EX/Film_Autor_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/Us9AwSU.png",[$]FILM STINET
+http://31.172.87.53:2200/ALB-EX/Film_Stinet_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/MBWwZiO.png",[$]FILM T-HD
+http://31.172.87.53:2200/ALB-EX/T_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/Vs4PpZp.png",[$]FAMILY HD
+http://31.172.87.53:2200/ALB-EX/Family_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/NjtAdF7.png",[$]EUROFILM HD
+http://31.172.87.53:2200/ALB-EX/Euro_Film_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/VTeSkWA.png",[$]KANAL-D DRAMA HD
+http://31.172.87.53:2200/ALB-EX/KanalD_Drama_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/0o9hujQ.png",[$]TRING JOLLY HD
+http://31.172.87.53:2200/ALB-EX/Tring_Jolly_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/FdHv6PL.png",[$]TRING LIVING HD
+http://31.172.87.53:2200/ALB-EX/Living_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/uuXOeI4.png",[$]TRING SUPER HD
+http://31.172.87.53:2200/ALB-EX/Tring_Super_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/dyadOuN.png",[$]TRING FANTASY
+http://31.172.87.53:2200/ALB-EX/Tring_FAntasy_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/LipwYu2.png",[$]TRING LIFE
+http://31.172.87.53:2200/ALB-EX/Tring_Life_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/FEIDf9n.png",[$]TRING 3+
+http://31.172.87.53:2200/ALB-EX/Tring_3_Plus_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/j377oHE.png",[$]TRING COMEDY
+http://31.172.87.53:2200/ALB-EX/Tring_Comedy_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/OsX9Rfd.png",[$]TRING SHQIP
+http://31.172.87.53:2200/ALB-EX/Tring_Shqip_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/bdEufPv.png",[$]TRING SMILE
+http://31.172.87.53:2200/ALB-EX/Tring_Smile_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/uw2sIZk.png",[$]FOX 
+http://31.172.87.53:2200/ALB-EX/Fox_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/QBtN7oM.png",[$]FOX LIFE
+http://31.172.87.53:2200/ALB-EX/Fox_Life_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/O0gXCE6.png",[$]FALCON ACTION HD
+http://31.172.87.53:2200/ALB-EX/XACTION_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/bumwU6t.png",[$]NETFLIX ROMANCE HD
+http://31.172.87.53:2200/ALB-EX/XROMANCE_HD_-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/0sj92jL.png",[$]EPISODE HD
+http://31.172.87.53:2200/ALB-EX/Episode_HD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/tOeoh4o.png",[$]RTSH FILM HD
+http://31.172.87.53:2200/ALB-EX/RTSH_Film_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/uVNwXjS.png",[$]SUPER SPORT 1FHD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/DTeLqi0.png",[$]SUPER SPORT 2FHD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/Bvffric.png",[$]SUPER SPORT 3FHD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_3_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/OCe0PNo.png",[$]SUPER SPORT 4FHD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_4_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/OjdOi0r.png",[$]SUPER SPORT 5FHD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_5_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/TOB4krE.png",[$]SUPER SPORT 6FHD
+http://31.172.87.53:2200/ALB-EX/Super_Sport_6_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/5ybBN8S.png",[$]TRING SPORT 1FHD
+http://31.172.87.53:2200/ALB-EX/Tring_Sport_1_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/tQn8MRC.png",[$]TRING SPORT 2FHD
+http://31.172.87.53:2200/ALB-EX/Tring_Sport_2_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/1oGovgb.png",[$]TRING SPORT 3FHD
+http://31.172.87.53:2200/ALB-EX/Tring_Sport_3_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/7LSchA7.png",[$]TRING SPORT 4FHD
+http://31.172.87.53:2200/ALB-EX/Tring_Sport_4_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/2QJTqPu.png",[$]KUJTESA SPORT 1FHD
+http://31.172.87.53:2200/ALB-EX/K_Sport_1_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/0WYzVt9.png",[$]KUJTESA SPORT 2FHD
+http://31.172.87.53:2200/ALB-EX/K_Sport_2_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/K5rsAsz.png",[$]KUJTESA SPORT 3FHD
+http://31.172.87.53:2200/ALB-EX/K_Sport_3_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/bXR4GHN.png",[$]KUJTESA SPORT 4FHD
+http://31.172.87.53:2200/ALB-EX/K_Sport_4_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD
+http://31.172.87.53:2200/ALB-EX/EuroSport_1_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
+http://31.172.87.53:2200/ALB-EX/EuroSport_2_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT
+
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/QqXTalC.png",[$]BEIN SPORTS XTRA 1HD[AR]
+http://31.172.87.53:2200/EX/bein_Extra_1_HD-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/FAJT7gA.png",[$]BEIN SPORTS XTRA 2HD[AR]
+http://31.172.87.53:2200/EX/bein_Extra_2_HD-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/h4K6ytQ.png",[$]BEIN SPORTS PREMIUM 1HD[AR]
+http://31.172.87.53:2200/EX/bein8hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/mZw4eBB.png",[$]BEIN SPORTS PREMIUM 2HD[AR]
+http://31.172.87.53:2200/EX/bein9hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/y8FmVgm.png",[$]BEIN SPORTS PREMIUM 3HD[AR]
+http://31.172.87.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/dm64oSu.png",[$]BEIN SPORTS HD[AR]
+http://31.172.87.53:2200/TN/beinsportshd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/Mk1qRcM.png",[$]BEIN SPORTS NBA HD[AR]
+http://31.172.87.53:2200/EX/beIN_NBA_HD-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/oL7I359.png",[$]BEIN SPORTS 1HD[AR]
+http://31.172.87.53:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/A5eirxZ.png",[$]BEIN SPORTS 2HD[AR] 
+http://31.172.87.53:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/lHnf0n2.png",[$]BEIN SPORTS 3HD[AR]
+http://31.172.87.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/KTbEr56.png",[$]BEIN SPORTS 4HD[AR] 
+http://31.172.87.53:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/kc9oUTu.png",[$]BEIN SPORTS 5HD[AR]
+http://31.172.87.53:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/JRHpVlc.png",[$]BEIN SPORTS 6HD[AR]
+http://31.172.87.53:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/FMW3iai.png",[$]BEIN SPORTS 7HD[AR]
+http://31.172.87.53:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/uhblgMN.png",[$]BEIN SPORTS 1HD[FR]
+http://31.172.87.53:2200/EX/bein14hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/Vkgwn9P.png",[$]BEIN SPORTS 2HD[FR]
+http://31.172.87.53:2200/EX/bein15hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/NaoOv5Q.png",[$]BEIN SPORTS 1HD[EN]
+http://31.172.87.53:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/duqaICj.png",[$]BEIN SPORTS 2HD[EN]
+http://31.172.87.53:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/y7lO9u6.png",[$]DAZN 1HD
+http://31.172.87.53:2200/NL/dazn1hd-esp/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/eHrSYIa.png",[$]DAZN 2HD
+http://31.172.87.53:2200/NL/dazn2hd-esp/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/EBUD3Lw.png",[$]DAZN 3HD
+http://31.172.87.53:2200/NL/dazn3hd-esp/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/8kmyXXp.png",[$]DAZN 4HD
+http://31.172.87.53:2200/NL/dazn4hd-esp/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+http://31.172.87.53:2200/EX/BEINSPORT_1_FR-fr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+http://31.172.87.53:2200/EX/BEINSPORT_2_FR-fr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+http://31.172.87.53:2200/EX/BEINSPORT_3_FR-fr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/b9xhjnQ.png",[$]BEIN SPORTS MAX 4HD
+http://31.172.87.53:2200/EX/FR_BeinSportMax4-fr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/WveoStB.png",[$]BEIN SPORTS MAX 5HD
+http://31.172.87.53:2200/EX/FR_BeinSportMax5-fr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/nKJyycY.png",[$]BEIN SPORTS MAX 6HD
+http://31.172.87.53:2200/EX/FR_BeinSportMax6-fr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/iCG8hLF.png",[$]BEIN SPORTS MAX 7HD
+http://31.172.87.53:2200/EX/FR_BeinSportMax7-fr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/VhCo5vo.png",[$]BEIN SPORTS MAX 8HD
+http://31.172.87.53:2200/EX/FR_BeinSportMax8-fr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/WpI5i4w.png",[$]BEIN SPORTS MAX 9HD
+http://31.172.87.53:2200/EX/FR_BeinSportMax9-fr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/lBvV2EN.png",[$]SPORT TV +HD 
+http://31.172.87.53:2200/NL/sporttvplus-por/index.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/lLUDa8S.png",[$]SPORT TV 1HD 
+http://31.172.87.53:2200/NL/sporttv1hd-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/GWZLIwO.png",[$]SPORT TV 2HD
+http://31.172.87.53:2200/NL/sporttv2hd-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/9U5nFna.png",[$]SPORT TV 3HD
+http://31.172.87.53:2200/NL/sporttv3hd-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/iq5MRT8.png",[$]SPORT TV 4HD
+http://31.172.87.53:2200/NL/sporttv4hd-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/GgJrV2p.png",[$]SPORT TV 5HD
+http://31.172.87.53:2200/NL/sporttv5hd-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/CFl3zRU.png",[$]ELEVEN 1HD
+http://31.172.87.53:2200/NL/elevensports1hd-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/JcANqBJ.png",[$]ELEVEN 2HD
+http://31.172.87.53:2200/NL/elevensports2hd-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/1Akxat2.png",[$]ELEVEN 3HD
+http://31.172.87.53:2200/NL/elevensports3-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/TeqAoTS.png",[$]ELEVEN 4HD
+http://31.172.87.53:2200/NL/elevensports4-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/URNcmBu.png",[$]ELEVEN 5HD
+http://31.172.87.53:2200/NL/elevensports5-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/dRMNOMu.png",[$]ELEVEN 6HD
+http://31.172.87.53:2200/NL/elevensports6-por/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/ibtgcFO.png",[$]SPORT KLUB HD
+http://31.172.87.53:2200/EX/Sport_Klub_HD-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/kh7cGM1.png",[$]SPORT KLUB 1HD
+http://31.172.87.53:2200/EX/Sport_Klub_1-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/CNuOJCa.png",[$]SPORT KLUB 2HD
+http://31.172.87.53:2200/EX/Sport_Klub_2-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/XpyvcQp.png",[$]SPORT KLUB 3HD
+http://31.172.87.53:2200/EX/Sport_Klub_3-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/Cv5eFap.png",[$]SPORT KLUB 4HD
+http://31.172.87.53:2200/EX/Sport_Klub_4-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/yQN7JLs.png",[$]SPORT KLUB 5HD
+http://31.172.87.53:2200/EX/Sport_Klub_5-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/mrXch9B.png",[$]SPORT KLUB 6HD
+http://31.172.87.53:2200/EX/Sport_Klub_6-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/tSSLgWJ.png",[$]ARENA SPORT 1HD
+http://31.172.87.53:2200/EX/Arena_Sport_1_HD_CRO-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/cD0t3ZI.png",[$]ARENA SPORT 2HD
+http://31.172.87.53:2200/EX/Arena_Sport_2_HD_CRO-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/yBpwh9p.png",[$]ARENA SPORT 3HD
+http://31.172.87.53:2200/EX/Arena_Sport_3_HD_CRO-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/inb0HE1.png",[$]ARENA SPORT 4HD
+http://31.172.87.53:2200/EX/Arena_Sport_4_HD_CRO-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/2YrvJu3.png",[$]ARENA SPORT 5HD
+http://31.172.87.53:2200/EX/Arena_Sport_5_HD_CRO-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/apv85tz.png",[$]ARENA SPORT 6HD
+http://31.172.87.53:2200/EX/Arena_Sport_6_HD_CRO-balkan/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/cQafNrp.png",[$]DAZN 1HD
+http://31.172.87.53:2200/NL/dazn1hd-de/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/r5ZtY2e.png",[$]DAZN 2HD
+http://31.172.87.53:2200/NL/dazn2hd-de/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/2xMUd6f.png",[$]SKY SPORT NEWS HD
+http://31.172.87.53:2200/NL/skysportsnews-de/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/3fXfzYe.png",[$]SKY SPORT 1HD
+http://31.172.87.53:2200/NL/skysport1-de/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/d697keF.png",[$]SKY SPORT 2HD
+http://31.172.87.53:2200/NL/skysport2-de/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/sBNNnsH.png",[$]SKY BUNDESLIGA 1HD
+http://31.172.87.53:2200/NL/skybundesliga1-de/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/PruusdK.png",[$]SKY BUNDESLIGA 2HD
+http://31.172.87.53:2200/NL/skybundesliga2-de/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD
+http://31.172.87.53:2200/NL/eurosport1hd-de/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
+http://31.172.87.53:2200/NL/eurosport2hd-de/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/uUqLqJP.png",[$]ZIGGO VOETBAL HD
+http://31.172.87.53:2200/NLH/Ziggo_Sport_Voetbal_HD_NL-nl/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/nzfaZHK.png",[$]ZIGGO SELECT HD
+http://31.172.87.53:2200/NLH/Ziggo_Sport_Select_HD_NL-nl/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/6lPzC6Y.png",[$]ESPN HD
+http://31.172.87.53:2200/NLH/ESPN_1_HD-nl/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/kxaud6p.png",[$]ESPN 2HD
+http://31.172.87.53:2200/NLH/ESPN_2_HD-nl/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/XR7EygZ.png",[$]ESPN 3HD
+http://31.172.87.53:2200/NLH/ESPN_3_HD-nl/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/vTMBuS8.png",[$]ESPN 4HD
+http://31.172.87.53:2200/NLH/ESPN_4_HD-nl/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/nCHCqkP.png",[$]DIEMA SPORT HD
+http://31.172.87.53:2200/NL/diemasport1-bul/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/FYTGoig.png",[$]DIEMA SPORT 2HD
+http://31.172.87.53:2200/NL/diemasport2-bul/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/UqIymwB.png",[$]MAX SPORT 1HD
+http://31.172.87.53:2200/NL/maxsport1-bul/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/Yc3EYRV.png",[$]MAX SPORT 2HD
+http://31.172.87.53:2200/NL/maxsport2-bul/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/YjExpN2.png",[$]MAX SPORT 3HD
+http://31.172.87.53:2200/NL/maxsport3-bul/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/qgi3YwD.png",[$]MAX SPORT 4HD
+http://31.172.87.53:2200/NL/maxsport4-bul/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/llXw1cV.png",[$]ESPN BRASIL HD
+http://31.172.87.53:2200/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/80O1gPk.png",[$]ESPN HD
+http://31.172.87.53:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/Mi07W83.png",[$]ESPN 2HD
+http://31.172.87.53:2200/BR/ESPN_2_HD-br/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/weQDyCT.png",[$]FOX SPORTS HD
+http://31.172.87.53:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/GrRfGBP.png",[$]FOX SPORTS 2HD
+http://31.172.87.53:2200/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/4I95fhE.png",[$]SPORTV HD
+http://31.172.87.53:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/LhtoA6h.png",[$]SPORTV 2HD
+http://31.172.87.53:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/6JrGaOH.png",[$]SPORTV 3HD
+http://31.172.87.53:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/hpbK6sE.png",[$]DISCOVERY TURBO HD
+http://31.172.87.53:2200/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/UGTzQwj.png",[$]S MAXIMO 1HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_Maximo_1_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/YK4AnqT.png",[$]S PSL HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_PSL_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/uixowUE.png",[$]S GRANDSTAND HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_Grandstand_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/upXFbfH.png",[$]S LA LIGA HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/8G0sO7y.png",[$]S PREMIER LEAGUE HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/amysWH6.png",[$]S FOOTBALL HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_Football_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/bCIJqYA.png",[$]S VARIETY 1HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/4eRjY9q.png",[$]S VARIETY 2HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/0o9AEod.png",[$]S VARIETY 3HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_Variety_3_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/E7UDWjZ.png",[$]S VARIETY 4HD
+http://31.172.87.53:2200/AFR-EX/SuperSport_Variety_4_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/HzDVRgz.png",[$]YES SPORT 1HD
+http://31.172.87.53:2200/EX/YES_SPORT1_FHD-isr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/fg5WcbF.png",[$]YES SPORT 2HD
+http://31.172.87.53:2200/EX/YES_SPORT2_FHD-isr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/DPFPntF.png",[$]YES SPORT 3HD
+http://31.172.87.53:2200/EX/YES_SPORT3_FHD-isr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/KscEVjr.png",[$]YES SPORT 4HD
+http://31.172.87.53:2200/EX/YES_SPORT4_FHD-isr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/ZrbPVTm.png",[$]YES SPORT 5HD
+http://31.172.87.53:2200/EX/YES_SPORT5_FHD-isr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/wrtT37v.png",[$]BEIN SPORTS HABER HD
+http://31.172.87.53:2200/TR/beinsportshaber-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+http://31.172.87.53:2200/EX/beinsports1hd-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+http://31.172.87.53:2200/EX/beinsports2hd-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+http://31.172.87.53:2200/EX/beinsports3hd-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/5vwG18K.png",[$]BEIN SPORTS 4HD
+http://31.172.87.53:2200/EX/beinsports4hd-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/9OKv17B.png",[$]BEIN SPORTS MAX 1HD
+http://31.172.87.53:2200/EX/beinmax1hd-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/4ZwTPnZ.png",[$]BEIN SPORTS MAX 2HD
+http://31.172.87.53:2200/EX/beinmax2hd-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/TD3UkjH.png",[$]S SPORT HD
+http://31.172.87.53:2200/EX/S_SPORT_1_HD-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/yIbGYh7.png",[$]S SPORT 2HD
+http://31.172.87.53:2200/EX/S_SPORT_2_FHD-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/pDAkge5.png",[$]SMART SPOR HD
+http://31.172.87.53:2200/EX/SMART_SPORT_HD-tr/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/cUs7TFd.png",[$]IDMAN TV
+http://31.172.87.53:2200/EX/idmanazerbaycan-az/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/QmOAM68.png",[$]CBC SPORT
+http://31.172.87.53:2200/EX/cbcsporthd-az/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/CFl3zRU.png",[$]ELEVEN 1HD[BE]
+http://31.172.87.53:2200/A-EX/BE_ELEVENSPORT_1-be/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/JcANqBJ.png",[$]ELEVEN 2HD[BE]
+http://31.172.87.53:2200/A-EX/BE_ELEVENSPORT_2-be/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[AL]SPORTE(VIP2)" tvg-logo="https://i.imgur.com/1Akxat2.png",[$]ELEVEN 3HD[BE]
+http://31.172.87.53:2200/A-EX/BE_ELEVENSPORT_3-be/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+
+#EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/mHwL7FW.png",[$]SERIE-A 1HD
+http://31.172.87.53:2200/EX/Serie_A_Events_1_HD-it/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/mHwL7FW.png",[$]SERIE-A 2HD
+http://31.172.87.53:2200/EX/Serie_A_Events_2_HD-it/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/BPnfxx3.png",[$]SKY SPORT UNO HD
+http://31.172.87.53:2200/EX/Sky_Sport_Uno_HD-it/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/eePdkST.png",[$]SKY SPORT CALCIO HD
+http://31.172.87.53:2200/EX/Sky_Sport_Serie_A_HD-it/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/B44BiNR.png",[$]SKY SPORT ARENA HD
+http://31.172.87.53:2200/EX/Sky_Sport_Arena_HD-it/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/nsmjngN.png",[$]X DORCEL
+http://31.172.87.53:2200/NL/dorceltvhd/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/3O09zY7.png",[$]HUSTLER HD
+http://31.172.87.53:2200/NL/hustlerhd/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/uJzVqqJ.png",[$]PRIVATE HD
+http://31.172.87.53:2200/NL/privatehd/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/t7on3Iq.png",[$]EVIL ANGEL
+http://31.172.87.53:2200/NL/evilangel/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/Fi3dXgM.png",[$]HOT
+http://31.172.87.53:2200/NL/hot/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/KDjxCI3.png",[$]XY PLUS
+http://31.172.87.53:2200/NL/xyplus/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/MhPXPgQ.png",[$]PINKO TV
+http://31.172.87.53:2200/NL/pinkotv/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/lAeUaT6.png",[$]BRAZZERS TV EUROPE
+http://31.172.87.53:2200/NL/brazzershd/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/cTBtmuv.png",[$]PASSION XXX
+http://31.172.87.53:2200/NL/passion/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/lZRG6tG.png",[$]VIVID RED
+http://31.172.87.53:2200/NL/vivid/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+
+
+
 #EXTINF:0, euronews albania
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live
 
